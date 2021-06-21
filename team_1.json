@@ -1,0 +1,47 @@
+{
+  "name": "HERoEHS",
+  "players": {
+    "1": {
+      "proto": "Alice3Robocup",
+      "dockerTag": "latest",
+      "dockerCmd": "",
+      "halfTimeStartingPose": {
+        "translation": [-3.5, -4.63, 0.822],
+        "rotation": [0, 0, 1, 1.57]
+      },
+      "reentryStartingPose": {
+        "translation": [-4.9, -4.63, 0.822],
+        "rotation": [0, 0, 1, 1.57]
+      },
+      "shootoutStartingPose": {
+        "translation": [4.0, 0, 0.822],
+        "rotation": [0, 0, 1, 0]
+      },
+      "goalKeeperStartingPose": {
+        "translation": [-6.9, 0, 0.822],
+        "rotation": [0, 0, 1, 0]
+      }
+    },
+    "2": {
+      "proto": "Alice3Robocup",
+      "dockerTag": "latest",
+      "dockerCmd": "",
+      "halfTimeStartingPose": {
+        "translation": [-3.5, 4.63, 0.822],
+        "rotation": [0, 0, 1, -1.57]
+      },
+      "reentryStartingPose": {
+        "translation": [-4.9, -4.63, 0.822],
+        "rotation": [0, 0, 1, 1.57]
+      },
+      "shootoutStartingPose": {
+        "translation": [4.0, 0, 0.822],
+        "rotation": [0, 0, 1, 0]
+      },
+      "goalKeeperStartingPose": {
+        "translation": [-6.9, 0, 0.822],
+        "rotation": [0, 0, 1, 0]
+      }
+    }
+  }
+}
